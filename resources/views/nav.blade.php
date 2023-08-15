@@ -10,4 +10,4 @@
 <a href="{{ route('register') }}">Registration</a> 
 @endif
 </div>
-<a href="{{ route('home') }}"><h1 style="text-align: center">Ami coding pari na</h1></a>
+<a href="{{ route('home') }}"><h1 style="text-align: center">Ami Coding Pari Na</h1></a>
